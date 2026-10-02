@@ -1,34 +1,269 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
-<h3 align="center">A Software Development & Data Analytics Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksharma5905&label=Profile%20views&color=0e75b6&style=flat" alt="mayanksharma5905" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayanksharma5905" alt="mayanksharma5905" /></a> </p>
-
-- 🔭 I’m currently working on [HRMS - System's](https://github.com/ketanjangir129-stack/HRMS-System)
-
-- 🌱 I’m currently learning **Backend development**
-
-- 💬 Ask me about **full stack development, data analytics**
-
-- 📫 How to reach me **mayank24204@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kLpV9HKTu539VeNaF3gXgC4WyBEfLMgU/view?usp=sharing](https://drive.google.com/file/d/1kLpV9HKTu539VeNaF3gXgC4WyBEfLMgU/view?usp=sharing)
-
-- ⚡ Fun fact **I Think I'm a Full Stack Developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-sharma24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-sharma24/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mayanksharma5905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mayanksharma5905" height="30" width="40" /></a>
-<a href="https://instagram.com/mayanksharma5905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayanksharma5905" height="30" width="40" /></a>
+<p align="center">
+  <strong>B.Tech CSE Student · Full-Stack Developer · Data Analytics Enthusiast</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building practical applications, learning backend engineering, and turning ideas into working software.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayanksharma5905&show_icons=true&locale=en&layout=compact" alt="mayanksharma5905" /></p>
+<p align="center">
+  <a href="https://github.com/MayankSharma5905">
+    <img src="https://img.shields.io/badge/GitHub-MayankSharma5905-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:mayank24204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/MayankSharma5905?tab=repositories">
+    <img src="https://img.shields.io/badge/View-Repositories-238636?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayanksharma5905&show_icons=true&locale=en" alt="mayanksharma5905" /></p>
+<!-- ========================= PROFILE METRICS ========================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksharma5905&" alt="mayanksharma5905" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMayankSharma5905&query=%24.public_repos&label=Public%20Repos&logo=github&style=for-the-badge" alt="Public Repositories"/>
+  <img src="https://img.shields.io/github/followers/MayankSharma5905?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=MayankSharma5905&style=for-the-badge&label=Profile%20Views" alt="Profile Views"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 2nd-year **B.Tech Computer Science** student
+- 💻 Interested in **full-stack development, backend engineering, and data analytics**
+- 🚀 Currently working on an **HRMS platform**
+- 🌱 Currently learning **backend development, REST APIs, authentication, and scalable application architecture**
+- 🔥 I enjoy building real-world applications instead of only following tutorials
+- 📊 Interested in turning raw data into useful dashboards, insights, and applications
+- 🤝 Always open to learning, collaborating, and building useful projects
+
+---
+
+## 🚀 What I'm Working On
+
+### 🏢 HRMS System
+
+A full-stack Human Resource Management System focused on managing employees, attendance, leave, tasks, salary, payroll, authentication, and administrative workflows.
+
+**Current focus:**
+
+`React` · `JavaScript` · `Node.js` · `Express.js` · `Firebase` · `REST APIs` · `Redux`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,python,html,css,mysql" alt="Languages"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind" alt="Frontend"/>
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql" alt="Backend and Database"/>
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🏢 HRMS System
+**Collaborative Project**
+
+A full-stack HR management platform designed for employee management, attendance, leave, payroll, salary, tasks, authentication, and administrative workflows.
+
+**Tech:** React · Node.js · Express · Firebase · REST API
+
+🔗 [View Project](https://github.com/ketanjangir129-stack/HRMS-System)
+
+---
+
+### 🚇 Jaipur Metro Database
+
+A MySQL-based database project created as part of an internship project, focused on modelling Jaipur Metro-related data and relational database operations.
+
+**Tech:** MySQL · SQL · Database Design
+
+🔗 [View Repository](https://github.com/MayankSharma5905/jaipur_metro_database)
+
+---
+
+### 💻 Ubuntu Installation
+
+A repository focused on Ubuntu installation/setup-related work and documentation.
+
+**Tech:** Linux · Ubuntu · System Setup
+
+🔗 [View Repository](https://github.com/MayankSharma5905/ubantu_installation)
+
+---
+
+### 📚 Developer Portfolios
+
+A collection of developer portfolios gathered for inspiration and learning.
+
+**Tech:** GitHub · Markdown · Web Development Resources
+
+🔗 [View Repository](https://github.com/MayankSharma5905/developer-portfolios)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MayankSharma5905&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="Mayank Sharma GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankSharma5905&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=MayankSharma5905&theme=tokyonight&hide_border=true"
+    width="700"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MayankSharma5905&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+## 💻 Coding Activity
+
+<p align="center">
+  <a href="https://github.com/MayankSharma5905">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=MayankSharma5905&show_icons=true&theme=tokyonight&hide_border=true&hide=issues"
+      width="90%"
+      alt="GitHub Coding Activity"
+    />
+  </a>
+</p>
+
+---
+
+## 🎯 Current Learning Journey
+
+```text
+Frontend Development
+        ↓
+React + Redux
+        ↓
+Backend Development
+        ↓
+Node.js + Express
+        ↓
+REST APIs + Authentication
+        ↓
+Firebase + Database Design
+        ↓
+Scalable Full-Stack Applications
+```
+
+---
+
+## 📌 My Development Focus
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│   💻 Full-Stack Development                   │
+│   ⚙️  Backend & REST API Development          │
+│   🔐 Authentication & Authorization           │
+│   🔥 Firebase / Realtime Database             │
+│   📊 Data Analytics & Dashboards               │
+│   🗄️  Database Design                         │
+│   🚀 Building Real-World Projects             │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+## 🌱 Goals
+
+- Build and deploy production-style full-stack applications
+- Become stronger in backend architecture and API design
+- Improve database design and optimization skills
+- Build more data-driven applications
+- Contribute to open-source projects
+- Keep learning by building and experimenting
+
+---
+
+## 📌 GitHub Profile
+
+<p align="center">
+
+<a href="https://github.com/MayankSharma5905?tab=repositories">
+  <img src="https://img.shields.io/badge/📦%20Explore%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+</a>
+
+<a href="https://github.com/MayankSharma5905?tab=stars">
+  <img src="https://img.shields.io/badge/⭐%20My%20Starred%20Repositories-181717?style=for-the-badge&logo=github" alt="Starred Repositories"/>
+</a>
+
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:mayank24204@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/MayankSharma5905">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Learn by building. Improve by breaking. Grow by rebuilding.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
