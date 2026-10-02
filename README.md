@@ -156,29 +156,6 @@ A collection of developer portfolios gathered for inspiration and learning.
 
 ---
 
-## 📈 Contribution Activity
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/MayankSharma5905">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=MayankSharma5905&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-      alt="Mayank Sharma GitHub Activity"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MayankSharma5905">
-    <img
-      src="https://img.shields.io/badge/View%20Full%20Contribution%20Graph-GitHub-181717?style=for-the-badge&logo=github"
-      alt="View GitHub Contribution Graph"
-    />
-  </a>
-</p>
-
----
 
 ## 💻 Coding Activity
 
