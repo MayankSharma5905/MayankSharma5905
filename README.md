@@ -236,17 +236,16 @@ Scalable Full-Stack Applications
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Connect With Me
 
-<p align="center">
-  <a href="mailto:mayank24204@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayank-sharma24/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mayank Sharma LinkedIn"/>
   </a>
-  <a href="https://github.com/MayankSharma5905">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/MayankSharma5905" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-MayankSharma5905-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mayank Sharma GitHub"/>
   </a>
 </p>
-
 ---
 
 <p align="center">
