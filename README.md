@@ -34,7 +34,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd-year **B.Tech Computer Science** student
+- 🎓 Graduation in **B.Tech Computer Science**.
 - 💻 Interested in **full-stack development, backend engineering, and data analytics**
 - 🚀 Currently working on an **HRMS platform**
 - 🌱 Currently learning **backend development, REST APIs, authentication, and scalable application architecture**
